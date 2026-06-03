@@ -1,0 +1,12 @@
+import random input 
+
+# making number guessing gun game 
+# while loop condition when guessing != secreate_number 
+
+# comput choosen random number 
+guess =0 
+attempts = 5 
+chances = 5 
+
+print("== number_guessing_game ==" )
+
